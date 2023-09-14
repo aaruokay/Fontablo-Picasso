@@ -8,9 +8,25 @@
             "name": "Quicksand Lowercase",
             "bundleid": "com.aarav.qslc.picasso",
             "author": "Aarav",
-            "version": "1",
+            "version": "1.0",
             "icon": "icons/qslc.png",
             "path": "packages/com.aarav.qslc.picasso"
+        },
+        {
+            "name": "Meloso Clock Font",
+            "bundleid": "com.aarav.melosoclock.picasso",
+            "author": "Aarav",
+            "version": "1.0",
+            "icon": "icons/mcf.png",
+            "path": "packages/com.aarav.melosoclock.picasso"
+        },
+        {
+            "name": "Comic Sans",
+            "bundleid": "com.aarav.comicsans.picasso",
+            "author": "Aarav",
+            "version": "1.0",
+            "icon": "icons/comicsans.png",
+            "path": "packages/com.aarav.comicsans.picasso"
         }
     ]
 }
