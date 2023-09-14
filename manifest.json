@@ -1,35 +1,16 @@
 {
     "spec": "1.0",
-    "name": "Picasso Essentials Beta",
-    "description": "Provides early tweak releases before they come out officially.",
-    "icon": "repo.png",
+    "name": "Picasso Fonts",
+    "description": "Font",
+    "icon": "test.png",
     "packages": [
         {
-            "name": "MDM Toolbox",
-            "bundleid": "net.sourceloc.mdmtoolbox",
-            "author": "Picasso Team",
-            "version": "1.1",
-            "icon": "icons/MDM.png",
-            "path": "packages/net.sourceloc.mdmtoolbox.picasso"
-        },
-        {
-            "name": "Accent Color",
-            "bundleid": "net.sourceloc.accent",
-            "author": "Picasso Team",
-            "version": "1.1",
-            "icon": "icons/AccentColor.png",
-            "path": "packages/net.sourceloc.accent.picasso"
-        },
-        {
-          "name": "Hide Home Bar",
-          "bundleid": "ca.bomberfish.hidehomebar",
-          "author": "Picasso Team",
-          "description": "Hides Home Bar (white line) on iPhone X devices and later.",
-          "version": "1.0",
-          "icon": "icons/HideHomeBar.png",
-          "path": "packages/ca.bomberfish.hidehomebar.picasso",
-          "minPicassoVersion": "2.0",
-          "minPicassoBuild": "5"
+            "name": "Quicksand Lowercase",
+            "bundleid": "com.aarav.qslc.picasso",
+            "author": "Aarav",
+            "version": "1",
+            "icon": "icons/qslc.png",
+            "path": "packages/com.aarav.qslc.picasso"
         }
     ]
 }
