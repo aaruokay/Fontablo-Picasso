@@ -27,6 +27,38 @@
             "version": "1.0",
             "icon": "icons/comicsans.png",
             "path": "packages/com.aarav.comicsans.picasso"
+        },
+        {
+            "name": "Bauhaus",
+            "bundleid": "com.aarav.bauhausfont.picasso",
+            "author": "Aarav",
+            "version": "1.0",
+            "icon": "icons/bh.png",
+            "path": "packages/com.aarav.bauhausfont.picasso"
+        },
+        {
+            "name": "Bronkoh",
+            "bundleid": "com.aarav.bronkoh.picasso",
+            "author": "Aarav",
+            "version": "1.0",
+            "icon": "icons/bronkoh.png",
+            "path": "packages/com.aarav.bronkoh.picasso"
+        },
+        {
+            "name": "Minecraft Font",
+            "bundleid": "com.aarav.minecraftfont.picasso",
+            "author": "Aarav",
+            "version": "1.0",
+            "icon": "icons/mcf.png",
+            "path": "packages/com.aarav.minecraftfont.picasso"
+        },
+        {
+            "name": "NothingOS",
+            "bundleid": "com.aarav.nothingos.picasso",
+            "author": "Aarav",
+            "version": "1.0",
+            "icon": "icons/nos.png",
+            "path": "packages/com.aarav.nothingos.picasso"
         }
     ]
 }
