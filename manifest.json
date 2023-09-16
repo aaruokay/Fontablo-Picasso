@@ -59,6 +59,14 @@
             "version": "1.0",
             "icon": "icons/nos.png",
             "path": "packages/com.aarav.nothingos.picasso"
-        }
+        },
+        {
+            "name": "Shoot a Star",
+            "bundleid": "com.aarav.shootastar.picasso",
+            "author": "Aarav",
+            "version": "1.0",
+            "icon": "icons/SaS.png",
+            "path": "packages/com.aarav.shootastar.picasso"
+        },
     ]
 }
