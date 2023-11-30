@@ -1,2 +1,5 @@
 # Fonts for Picasso
-absolutely shit repo
+Tweaks for font replacement for Picasso (by @sourcelocation)
+
+Discord for Picasso: 
+https://discord.gg/JVjubeAzQa
