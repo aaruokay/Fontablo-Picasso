@@ -2,7 +2,7 @@
     "spec": "1.2",
     "name": "Fonts",
     "description": "Tweaks to change system font.",
-    "icon": "Repoicon.png",
+    "icon": "Repoicon.PNG",
     "packages": [
         {
             "name": "Quicksand Lowercase",
