@@ -1,8 +1,8 @@
 {
-    "spec": "1.1",
-    "name": "Fontablo Picasso",
-    "description": "shit",
-    "icon": "test.png",
+    "spec": "1.2",
+    "name": "Fonts",
+    "description": "Tweaks to change system font.",
+    "icon": "Repoicon.png",
     "packages": [
         {
             "name": "Quicksand Lowercase",
